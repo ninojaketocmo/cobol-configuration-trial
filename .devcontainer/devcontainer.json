@@ -1,0 +1,5 @@
+{
+  "name": "TOP UP NEXUS",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y gnucobol3"
+}
